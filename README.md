@@ -4,4 +4,4 @@ Most countries' intellectual property offices make information about the tradema
 
 ## Scripts and guides are now available for the following countries' registers
 * United Kingdom Intellectual Property Office Trademarks
-* European Union Intellectual Property Office's eSearch Plus service for Trademarks
+* [European Union Intellectual Property Office's eSearch Plus service for Trademarks](https://codingpangolin.github.io/scrapingtm/euiposcrape)
