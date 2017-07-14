@@ -1,6 +1,6 @@
 # Web Scraping Data From Online Trademark Registers With Python
 
-Most countries' intellectual property offices make information about the trademarks registered through them available via online registers. These sites allow the user to search for trademarks and then view their details. The code is in this repository represent means of automatically downloading all of the data for trademarks on the registers and then placing the information into a CSV file.
+The Intellectual Property Offices of a large number of countries offer online registers through which data about the Trademarks they uphold can be accessed. Through the registers users can search for and view details about trademarks. This website aims to explain how the Python programming language can be used to automatically download data from the trademark registers, and then placing the information into CSV files so that the results can be viewed using spreadsheet software.
 
 ## Scripts and guides are now available for the following countries' registers
 * [United Kingdom Intellectual Property Office Trademarks](https://codingpangolin.github.io/scrapingtm/ukipotmscrape)
